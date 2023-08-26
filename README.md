@@ -42,12 +42,6 @@
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&flat&logo=linux&logoColor=FCC624)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=for-the-badge&logo=cisco&logoColor=white)]()
 
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Marissccal&show_icons=true&theme=dracula" alt="Marissccal" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marissccal&theme=dracula&exclude_repo=PPSS,hada-p1,INGP,streamua,IAPE,IR,ETO,SI,BitUA,SD,GRP6-GRP3-Yelabay,Pruebas,LPP,P2,P3,PED&layout=compact&count_private=true&hide=html,css" alt="Marissccal" />
-
----
-
 #### Let's talk
 <p align="center">
 <a href="https://t.me/Marisscal" rel="nofollow">
